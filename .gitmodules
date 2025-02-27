@@ -1,0 +1,9 @@
+[submodule "R7_STR_0000"]
+	path = R7_STR_0000
+	url = git@github.com:Simba-Avionic/Structure.git
+[submodule "R7_REC_0000"]
+	path = R7_REC_0000
+	url = git@github.com:Simba-Avionic/Recovery.git
+[submodule "R7_ENG_0000"]
+	path = R7_ENG_0000
+	url = git@github.com:Simba-Avionic/Engine.git
